@@ -8,6 +8,7 @@ namespace WorkingWithGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("i just added this in the Visual Studio");
+            Console.WriteLine("i just added this in the command line repo");
         }
     }
 }
